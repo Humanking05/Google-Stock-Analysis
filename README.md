@@ -139,3 +139,5 @@ This project emphasizes **clarity, separation of logic, and business relevance**
 Hassan Rafindadi Data Analyst | Business Intelligence | Python | SQL | BI Tools
 
 📧 Email: rafindadihassan@gmail.com 🔗 LinkedIn: https://www.linkedin.com/in/hassan-rafindadi-8704a41b4
+
+Dashboard link: https://app-stock-analysis-hebrrtmb3a4hjmv5a2vpjt.streamlit.app/
